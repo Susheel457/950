@@ -1,0 +1,75 @@
+*{
+  text-decoration: none;
+   font-weight: bold;
+   font-size: 4vh;
+   background: none;
+    font-family: 'Lobster', cursive;
+    background-color: #c6ecd9;
+}
+
+.two{
+  margin-left: 90vh;
+}
+
+.btnone{
+    margin-top: -90vh;
+    margin-left: 30vh;
+	background: none;
+	color: red;
+	text-decoration: none;
+	margin-right: 10vh;
+	background: ;
+}
+
+.btnone:hover{
+	background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+	color: black;
+}
+
+.btntwo{
+	 margin-top: 20vh;
+     margin-right: 10vh;
+     margin-left: 12vh;
+	 background: none;
+	 color: red;
+	 text-decoration: none;
+	 margin-left: 20px;
+	 background: ;
+}
+
+.btntwo:hover{
+	background: linear-gradient(to bottom, #66ccff 0%, #66ffff 100%);
+	color: #000;
+}
+
+.btnthree{
+	 margin-top: 20vh;
+   margin-right: 10vh;
+   margin-left: 12vh;
+	background: none;
+	color: red;
+	text-decoration: none;
+	margin-left: 20px;
+	background: ;
+}
+
+.btnthree:hover{
+	background: linear-gradient(to bottom, #99ff33 0%, #ffccff 100%);
+	color: black;
+}
+
+.btnfour{
+	 margin-top: 20vh;
+   margin-right: 10vh;
+   margin-left: 12vh;
+    background: none;
+	color: red;
+	text-decoration: none;
+	margin-left: 20px;
+	background: ;
+}
+
+.btnfour:hover{
+	background: linear-gradient(to bottom, #ffcc99 0%, #ff6699 100%);
+	color: #000;
+}

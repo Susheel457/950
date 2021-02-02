@@ -1,0 +1,46 @@
+*{
+	font-family: 'Frijole', cursive;
+	background-color: gray;
+}
+.next{
+	float:right;
+	font-size: 3vh;
+	background: #fff;
+	color: #000;
+	
+}
+
+.next:hover{
+	background: black;
+	color: red;
+}
+
+.two{
+	float: right;
+    margin-top: -107vh;
+    margin-right: 98vh;
+}
+
+.three{
+	float: right;
+    margin-top: -80vh;
+    margin-right: 98vh;
+}
+
+.four{
+	float: right;
+    margin-top: -53vh;
+    margin-right: 98vh;
+}
+
+.five{
+	float: right;
+    margin-top: -26vh;
+    margin-right: 98vh;
+}
+
+.six{
+	float: right;
+	margin-top: -108.1vh;
+	margin-right: 44vh;
+}
